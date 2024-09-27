@@ -13,7 +13,7 @@ To start a new task using this user_app1 as a template:
  5. Use ctrl-h to find and replace all instances of "UserApp1" with "YourNewTaskName"
  6. Use ctrl-h to find and replace all instances of "USER_APP1" with "YOUR_NEW_TASK_NAME"
  7. Add a call to YourNewTaskNameInitialize() in the init section of main
- 8. Add a call to YourNewTaskNameRunActiveState() in the Super Loop section of main ALEX.D
+ 8. Add a call to YourNewTaskNameRunActiveState() in the Super Loop section of main
  9. Update yournewtaskname.h per the instructions at the top of yournewtaskname.h
 10. Delete this text (between the dashed lines) and update the Description below to describe your task
 ----------------------------------------------------------------------------------------------------------------------
